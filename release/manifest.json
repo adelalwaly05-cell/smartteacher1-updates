@@ -1,6 +1,8 @@
 {
- "id": "2026-11-22-sharh-font",
- "file": "release/sharh-font.zip",
- "sha256": "a6574c6e433f41797aafaa69eea44ca4b703e4f737aafdad1a0d0ccb8d549eb2",
- "note": "تكبير خط الأبيات الشعرية في الشرح المبسط"
+ "id": "2026-11-22-sharh-font2",
+ "file": "release/sharh-font2.zip",
+ "sha256": "fedd2ef43138bd74a5d1b0654c54f82f09ea4b0bf15c158726a929d406989d8b",
+ "note": "",
+ "notify": false,
+ "silent": true
 }
