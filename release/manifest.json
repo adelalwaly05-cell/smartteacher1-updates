@@ -1,6 +1,6 @@
 {
- "id": "2026-11-22-balagha-g11-g12",
- "file": "release/balagha-g11-g12.zip",
- "sha256": "71b6fc1460a6d8ec0242dfd93179582b67792aa492c6ec68b9b603c6efc05644",
- "note": "الشرح البلاغي مع المصدر لأبيات الصفين الحادي عشر والثاني عشر"
+ "id": "2026-11-22-balagha-sources",
+ "file": "release/balagha-sources.zip",
+ "sha256": "a24db2352ea64e7ccf5f86e073887866af71de7e2a411cbf69b2a2b1140075b3",
+ "note": "تعديل مصدر الشرح البلاغي: «اجتهاد شخصي مع البحث» لغير المصادر الرسمية"
 }
