@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-cum-1123b",
- "file": "release/cum-1123b.zip",
- "sha256": "edf57739af7388bba9670e73fe165a7b46463357813e08c2eb19814c50b854be",
+ "id": "2026-11-23-imap-1123",
+ "file": "release/imap-1123.zip",
+ "sha256": "d5c08ffb0587a2386e6cf8b311579f54eb119eacc6fb9a03e13aaf865f4d6fa5",
  "note": "",
  "notify": false,
  "silent": true
