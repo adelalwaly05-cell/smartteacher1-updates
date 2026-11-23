@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-portal-nonotify",
- "file": "release/portal-nonotify.zip",
- "sha256": "938b4063d6f3cb5cf0c393e57592079aafbcae8324f8746c02085a149e599226",
+ "id": "2026-11-22-marthiya-simple",
+ "file": "release/marthiya-simple.zip",
+ "sha256": "1c2a0958e51eca50e27b9105ebdc9fd12efb9d33aeb093c115f4042b2f4af8d4",
  "note": "",
  "notify": false,
  "silent": true
