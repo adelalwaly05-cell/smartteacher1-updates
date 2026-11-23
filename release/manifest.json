@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-sharh-font3",
- "file": "release/sharh-font3.zip",
- "sha256": "807852b4f5729a4e960ed1aa78e7d8dae1b18f2cb9ac70c021b8f484006b1abb",
+ "id": "2026-11-22-portal-nonotify",
+ "file": "release/portal-nonotify.zip",
+ "sha256": "938b4063d6f3cb5cf0c393e57592079aafbcae8324f8746c02085a149e599226",
  "note": "",
  "notify": false,
  "silent": true
