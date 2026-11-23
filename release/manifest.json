@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-cum-1123",
- "file": "release/cum-1123.zip",
- "sha256": "766cfbb81a0c6dc042f77c522fe01b460bd9e24b8c7ebffd2cc96979ecc7d37d",
+ "id": "2026-11-22-cum-1123b",
+ "file": "release/cum-1123b.zip",
+ "sha256": "edf57739af7388bba9670e73fe165a7b46463357813e08c2eb19814c50b854be",
  "note": "",
  "notify": false,
  "silent": true
