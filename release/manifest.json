@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-imap-1123",
- "file": "release/imap-1123.zip",
- "sha256": "d5c08ffb0587a2386e6cf8b311579f54eb119eacc6fb9a03e13aaf865f4d6fa5",
+ "id": "2026-11-23-gate-1123",
+ "file": "release/gate-1123.zip",
+ "sha256": "60f0cf94e2ae38cc2e45d1e079eab530732577e5fcee9e3d19086d4cdf1afe14",
  "note": "",
  "notify": false,
  "silent": true
