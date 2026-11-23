@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-crs-qasas-plan",
- "file": "release/crs-qasas-plan.zip",
- "sha256": "5be4bef04fa9148a325cfb4d49fdda63c90595e81717982f201abe6b1068a776",
+ "id": "2026-11-22-sxp-simile",
+ "file": "release/sxp-simile.zip",
+ "sha256": "1ae74c5a3e9bb9012ac14912e81771ffd267f0252e3fe7b53314c3693a5a9a43",
  "note": "",
  "notify": false,
  "silent": true
