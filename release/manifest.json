@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-gate-1123",
- "file": "release/gate-1123.zip",
- "sha256": "60f0cf94e2ae38cc2e45d1e079eab530732577e5fcee9e3d19086d4cdf1afe14",
+ "id": "2026-11-23-mcq-1123",
+ "file": "release/mcq-1123.zip",
+ "sha256": "33967e7ad37d314ee2e75a2dfe97bf7f935c94ee532c1fe73c2ebe9ade46521d",
  "note": "",
  "notify": false,
  "silent": true
