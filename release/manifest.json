@@ -1,7 +1,7 @@
 {
- "id": "2026-11-22-update-1023",
- "file": "release/update-1023.zip",
- "sha256": "56eba4bcc24178802abc9eed0f63e971d0f55dba381dee2f07612f3416d3063a",
+ "id": "2026-11-22-marthiya-sxp",
+ "file": "release/marthiya-sxp.zip",
+ "sha256": "1c2a0958e51eca50e27b9105ebdc9fd12efb9d33aeb093c115f4042b2f4af8d4",
  "note": "",
  "notify": false,
  "silent": true
