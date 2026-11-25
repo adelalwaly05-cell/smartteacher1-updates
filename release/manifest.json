@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-blank-1125",
- "file": "release/blank-1125.zip",
- "sha256": "ad44f1bf335a30071645fee023de9f3f8620f3e7c1c21ce7d74b945fc320e026",
+ "id": "2026-11-23-prevnext-1125",
+ "file": "release/prevnext-1125.zip",
+ "sha256": "c95dc9ce287e354a86d16ff965a72f47b17cb676528de0ead05522c0d99f99b9",
  "note": "",
  "notify": false,
  "silent": true
