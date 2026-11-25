@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-games-1125",
- "file": "release/games-1125.zip",
- "sha256": "0617b98fba33f204c24acf577784c2837f21adaf433e74627b406bd1f0ecfb3e",
+ "id": "2026-11-23-games2-1125",
+ "file": "release/games2-1125.zip",
+ "sha256": "282a4c3807f18850344c1b5b54900f959ae47c879a0ef8bae7fbb28bf394613e",
  "note": "",
  "notify": false,
  "silent": true
