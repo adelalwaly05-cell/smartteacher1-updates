@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-masdar-1125",
- "file": "release/masdar-1125.zip",
- "sha256": "9c1708226d7568ac9a5cb07fc2c2ee61ba335cedcdf465903dfee8ef26b58eaf",
+ "id": "2026-11-23-masdar2-1125",
+ "file": "release/masdar2-1125.zip",
+ "sha256": "57e2d7b8af4c6fd4c3046d5145f24958547a893ff3f45334f1d4ead23620dd28",
  "note": "",
  "notify": false,
  "silent": true
