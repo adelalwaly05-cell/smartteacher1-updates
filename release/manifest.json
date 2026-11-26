@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-frs-1126",
- "file": "release/frs-1126.zip",
- "sha256": "38e3e0f6c95bd9024f0a355b076790226e350b6bb20c947f2bd7bbe05f19b14c",
+ "id": "2026-11-23-frs2-1126",
+ "file": "release/frs2-1126.zip",
+ "sha256": "9149a27df57858e04cb1b4b6ecd02ea8b1c008e8b6d2015a623880b98a293910",
  "note": "",
  "notify": false,
  "silent": true
