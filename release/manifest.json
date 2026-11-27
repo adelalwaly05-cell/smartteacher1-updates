@@ -1,7 +1,7 @@
 {
- "id": "2026-11-23-qwt-1126",
- "file": "release/qwt-1126.zip",
- "sha256": "0d9540caa8c7b0ec7629c8dfbbf2bab52922924d883f6fad7685741048fc08fd",
+ "id": "2026-11-23-fix-1127",
+ "file": "release/fix-1127.zip",
+ "sha256": "1c589099dbe137bd264ac41e36a29eacdd54e00dffc727ed6066e4794caacc11",
  "note": "",
  "notify": false,
  "silent": true
